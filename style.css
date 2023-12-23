@@ -1,0 +1,18 @@
+.navbar{
+    background-color: black;
+    overflow: hidden;
+}
+.navbar a {
+     color: white;
+     text-align: center;
+     padding: 20px 25px;
+     text-decoration: none;
+     font-size: 20px;
+}
+.navbar a:hover{
+    background-color: grey;
+    color: black;
+}
+table{
+    text-align: center;
+}
